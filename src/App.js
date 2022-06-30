@@ -9,6 +9,7 @@ class App extends Component {
       <div className=''>
         <Navbar></Navbar>
         <News></News>
+
       </div>
     );
   }
